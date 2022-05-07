@@ -2,7 +2,7 @@
 
 Hyesung's portfolio
 
-to sharpen up my HTML & CSS skills, I didn't react or other frameworks on this particular project.
+to sharpen up my HTML & CSS skills, I didn't use react or other frameworks on this particular project. 
 
 <img width="1664" alt="Screen Shot 2022-05-07 at 3 18 40 PM" src="https://user-images.githubusercontent.com/79060811/167273635-d49673d2-e01f-4360-83e8-9a36759860e8.png">
 <img width="1665" alt="Screen Shot 2022-05-07 at 3 18 26 PM" src="https://user-images.githubusercontent.com/79060811/167273637-5241a74d-4968-4f54-87d8-334f2ec7f958.png">
